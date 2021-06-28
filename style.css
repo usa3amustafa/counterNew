@@ -47,6 +47,6 @@ span {
 }
 @media (hover: hover) and (pointer: fine) {
   .btn:hover {
-    background-color: #343a40;
+    background-color: #23231a;
   }
 }
