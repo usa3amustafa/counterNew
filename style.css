@@ -32,9 +32,9 @@ span {
 .btn:hover {
   background-color: #343a40;
 }
-.btn:active {
+/* .btn:active {
   background-color: #6c757d;
-}
+} */
 
 .green {
   color: green;
@@ -44,10 +44,4 @@ span {
 }
 .white {
   color: #212529;
-}
-@media (max-width: 780px) {
-  .btn:active,
-  .btn:focus {
-    background-color: none;
-  }
 }
