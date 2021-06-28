@@ -29,12 +29,12 @@ span {
   cursor: pointer;
   transition: background-color 150ms ease-in-out;
 }
-.btn:hover {
+/* .btn:hover {
   background-color: #343a40;
-}
-/* .btn:active {
-  background-color: #6c757d;
 } */
+.btn:active {
+  background-color: #6c757d;
+}
 
 .green {
   color: green;
