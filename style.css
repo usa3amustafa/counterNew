@@ -5,7 +5,7 @@
 }
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: #bb9457;
+  background-color: #ced4da;
 }
 span {
   display: block;
@@ -30,10 +30,10 @@ span {
   transition: background-color 150ms ease-in-out;
 }
 .btn:hover {
-  background-color: #6a5837;
+  background-color: #343a40;
 }
 .btn:active {
-  background-color: #988f2a;
+  background-color: #6c757d;
 }
 
 .green {
@@ -43,5 +43,5 @@ span {
   color: #ae2012;
 }
 .white {
-  color: #fefefe;
+  color: #212529;
 }
